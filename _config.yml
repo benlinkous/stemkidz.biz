@@ -1,0 +1,9 @@
+title: STEMKidz.biz
+description: STEM exploration for young minds and families
+theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - activities.md
+  - contact.md
